@@ -1,13 +1,26 @@
 # Dates Generation
 
+### Como compilar - Linux
+```
+gcc datas.c -o datas
+```
+
+### Como compilar - Windows
+_Necessario ter gcc instalado_
+```
+gcc datas.c -o datas
+```
+
+---
+
 ### Formas de uso:
 
 Para Linux
 ```
-datas.exe 1950 2030
+./datas 1950 2030
 ```
 
 Para Windows
 ```
-./datas 1950 2030
+datas.exe 1950 2030
 ```
